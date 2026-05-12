@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Peter! 👋
 
-<!--
-**pslimmm/pslimmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** passionate about building scalable, resilient server-side architectures.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Backend:** Java (Spring Boot), Python (Flask, FastAPI), JS (Node, Express)
+- **Frontend:** JS (Vue, React, Nuxt), HTML, CSS (Tailwind, Bootstrap)
+- **Cloud & DB:** Azure, PostgreSQL (Supabase), MySQL 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [**Smart Attendance System**](https://github.com/lineonthepaper/cs102-project-v2) - *built with Spring Boot, React, OpenCV for fast processing of biometric data*
+- [**PicknGo: Seamless Pickups**](https://github.com/pslimmm/esd-microservices) - *built with Nuxt, Node, and Flask in a service-oriented architecture for high decoupling*
+- [**Gamified Learning Platform**](https://github.com/pslimmm/is216-smart-classroom) - *built with Nuxt for high responsiveness and server-side rendering, deployed on Vercel (inactive)*
