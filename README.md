@@ -1,6 +1,6 @@
 # Hi there, I'm Peter! 👋
 
-I'm a **Software Engineer** passionate about building scalable, resilient server-side architectures.
+I'm a Software Engineer passionate about building scalable, resilient server-side architectures.
 
 ## Tech Stack
 - **Backend:** Java (Spring Boot), Python (Flask, FastAPI), JS (Node, Express)
